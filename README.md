@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, React Native, MongoDB, Three.js, and Blockchain**
 
-- 📫 Reach me at **wa.me/923405147909** or **contact@muhammad-ali-spaqoo.vercel.app**
+- 📫 Reach me at **wa.me/923405147909** or **contact@wawasensei.dev**
 
 - ⚡ Fun fact: **I love building immersive digital worlds and pushing the boundaries of web technology!**
 
