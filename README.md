@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/spaqootech" target="blank"><img src="https://img.shields.io/github/followers/spaqootech?label=Followers&style=social" alt="spaqootech" /></a> </p>
 
-- 🔭 I’m currently working on **Three.js and Blockchain projects**
+- 🔭 I’m currently working on [my YouTube content](https://www.youtube.com/@spaqoo/videos)
+  
+- 🔭 I’m currently building on **Three.js and Blockchain projects**
 
 - 🌱 I’m learning and exploring **Metaverse, Crypto, VR, AR, and 3D Web Development**
 
